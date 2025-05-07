@@ -1,0 +1,5 @@
+/sistema-questionario
+├── /frontend       # Código do frontend (React)
+├── /backend        # Código do backend (Node.js)
+├── /ai             # Código da IA (Python)
+└── README.md       # Documentação do projeto
